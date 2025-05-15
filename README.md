@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Tanish Iyer👋
 
-<!--
-**Fazetanish/Fazetanish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 2nd year Computer Science student passionate about exploring new technologies and building awesome projects.
 
-Here are some ideas to get you started:
+## What I'm learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- MERN Stack (MongoDB, Express, React, Node.js)  
+- Artificial Intelligence & Machine Learning  
+- Web3 and blockchain development  
+
+## Skills
+
+- JavaScript, Python, Java  
+- React, Node.js, Express , MongoDB  
+- TensorFlow, Keras  
+- Git & GitHub  
+
+## Goals
+
+- Build real-world projects to strengthen my skills  
+- Contribute to open-source projects  
+- Keep learning and stay updated with tech trends  
+
+Feel free to connect or check out my repositories!
+
+---
