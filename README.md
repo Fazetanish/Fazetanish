@@ -1,6 +1,6 @@
 # Hi, I'm Tanish Iyer👋
 
-I'm a 2nd year Computer Science student passionate about exploring new technologies and building awesome projects.
+I'm a 3rd year Computer Science student passionate about exploring new technologies and building awesome projects.
 
 ## What I'm learning
 
